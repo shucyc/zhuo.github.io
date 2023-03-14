@@ -3,7 +3,7 @@
   icon: fas fa-envelope
 - title: Wechat
   url: weixin://dl/chat?SHU-CYC
-  <svg class="wechat-icon">
+  icon: <svg class="wechat-icon">
   <use xlink:href="/assets/icons/wechat.svg"></use>
   </svg>
 
