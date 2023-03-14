@@ -7,6 +7,12 @@ paginate: 10
 permalink: pretty
 cover_image: /bg.jpeg
 
+#logo
+ <head>
+ <link rel="icon" href="/logo.svg" mce_href="/logo.svg" type="image/x-icon">
+ <link rel="shortcut icon" href="/logo.svg" mce_href="/logo.svg" type="image/x-icon">
+ <head>
+
 # Gems
 plugins:
   - jekyll-gist

@@ -3,7 +3,10 @@
   icon: fas fa-envelope
 - title: Wechat
   url: weixin://dl/chat?SHU-CYC
-  icon: fab fa-WeChat
+  <svg class="wechat-icon">
+  <use xlink:href="/assets/icons/wechat.svg"></use>
+  </svg>
+
 - title: GitHub
   url: https://github.com/shucyc
   icon: fab fa-github
