@@ -8,10 +8,8 @@ permalink: pretty
 cover_image: /bg.jpeg
 
 #logo
- <head>
- <link rel="icon" href="/logo.svg" mce_href="/logo.svg" type="image/x-icon">
- <link rel="shortcut icon" href="/logo.svg" mce_href="/logo.svg" type="image/x-icon">
- <head>
+ <head> <link rel="icon" href="/logo.svg" mce_href="/logo.svg" type="image/x-icon">
+ <link rel="shortcut icon" href="/logo.svg" mce_href="/logo.svg" type="image/x-icon"><head>
 
 # Gems
 plugins:
@@ -37,7 +35,7 @@ exclude:
 WeChat:
   username: 动画小白灼灼
   card: summary
-logo: logo.png
+logo: 
 social:
   name: 动画小白灼灼
   links:
