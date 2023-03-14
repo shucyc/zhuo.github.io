@@ -7,6 +7,8 @@ paginate: 10
 permalink: pretty
 cover_image: /bg.jpeg
 
+#网站 ICON （要求为 PNG 格式）
+favicon : 'assets/icons/icon.png'
 
 
 # Gems
@@ -34,7 +36,7 @@ WeChat:
   username: 动画小白灼灼
   card: summary
 
-icon: /favicon.ico
+
 
 social:
   name: 动画小白灼灼
