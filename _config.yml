@@ -33,7 +33,9 @@ exclude:
 WeChat:
   username: 动画小白灼灼
   card: summary
-logo: favicon.ico
+
+icon: /favicon.ico
+
 social:
   name: 动画小白灼灼
   links:

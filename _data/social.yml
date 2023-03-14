@@ -3,8 +3,7 @@
   icon: fas fa-envelope
 - title: Wechat
   url: weixin://dl/chat?SHU-CYC
-  icon: fas fa-google
-
+  icon: fas fa-twitter
 - title: GitHub
   url: https://github.com/shucyc
   icon: fab fa-github
